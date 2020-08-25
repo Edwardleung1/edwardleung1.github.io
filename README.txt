@@ -1,1 +1,1 @@
-My Portfolio website. 
+My Portfolio website to showcase my side projects. 
